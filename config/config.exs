@@ -10,11 +10,11 @@ use Mix.Config
 
 # You can configure for your application as:
 #
-#     config :indenticon, key: :value
+#     config :identicon, key: :value
 #
 # And access this configuration in your application as:
 #
-#     Application.get_env(:indenticon, :key)
+#     Application.get_env(:identicon, :key)
 #
 # Or configure a 3rd-party app:
 #

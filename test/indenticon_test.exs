@@ -1,6 +1,6 @@
-defmodule IndenticonTest do
+defmodule IdenticonTest do
   use ExUnit.Case
-  doctest Indenticon
+  doctest Identicon
 
   test "the truth" do
     assert 1 + 1 == 2
